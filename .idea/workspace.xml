@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1e56cd3b-9ecb-4f8c-84b4-faca9e01e193" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../geektime-spring-family" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/ik-2012.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/src/main/java/org/wltea/analyzer/cfg/Configuration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/src/main/java/org/wltea/analyzer/cfg/DefaultConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/src/main/java/org/wltea/analyzer/core/AnalyzeContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/src/main/java/org/wltea/analyzer/core/CJKSegmenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/src/main/java/org/wltea/analyzer/core/CN_QuantifierSegmenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/src/main/java/org/wltea/analyzer/core/CharacterUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/src/main/java/org/wltea/analyzer/core/IKArbitrator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/src/main/java/org/wltea/analyzer/core/IKSegmenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/src/main/java/org/wltea/analyzer/core/ISegmenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/src/main/java/org/wltea/analyzer/core/LetterSegmenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/src/main/java/org/wltea/analyzer/core/LexemePath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/src/main/java/org/wltea/analyzer/core/QuickSortSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/src/main/java/org/wltea/analyzer/dic/DictSegment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/src/main/java/org/wltea/analyzer/dic/Dictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/src/main/java/org/wltea/analyzer/dic/Hit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/src/main/java/org/wltea/analyzer/dic/Term.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/src/main/java/org/wltea/analyzer/dic/main2012.dic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/src/main/java/org/wltea/analyzer/dic/quantifier.dic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/src/main/java/org/wltea/analyzer/model/analyzer/Lexeme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/src/main/resources/IKAnalyzer.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/src/main/resources/dic/chinese_medicine.dic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/src/main/resources/dic/main.dic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/src/main/resources/dic/stopword.dic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/src/test/java/ik/test/CommonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/src/test/java/ik/test/IKSegmenterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/src/test/java/ik/test/index/IndexCreat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/target/classes/IKAnalyzer.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/target/classes/META-INF/maven/ik-2012/ik-2012/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/target/classes/META-INF/maven/ik-2012/ik-2012/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/target/classes/dic/chinese_medicine.dic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/target/classes/dic/main.dic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/target/classes/dic/stopword.dic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/target/classes/org/wltea/analyzer/cfg/Configuration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/target/classes/org/wltea/analyzer/cfg/DefaultConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/target/classes/org/wltea/analyzer/core/AnalyzeContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/target/classes/org/wltea/analyzer/core/CJKSegmenter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/target/classes/org/wltea/analyzer/core/CN_QuantifierSegmenter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/target/classes/org/wltea/analyzer/core/CharacterUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/target/classes/org/wltea/analyzer/core/IKArbitrator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/target/classes/org/wltea/analyzer/core/IKSegmenter$ReloadTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/target/classes/org/wltea/analyzer/core/IKSegmenter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/target/classes/org/wltea/analyzer/core/ISegmenter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/target/classes/org/wltea/analyzer/core/LetterSegmenter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/target/classes/org/wltea/analyzer/core/LexemePath.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/target/classes/org/wltea/analyzer/core/QuickSortSet$Cell.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/target/classes/org/wltea/analyzer/core/QuickSortSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/target/classes/org/wltea/analyzer/dic/DictSegment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/target/classes/org/wltea/analyzer/dic/Dictionary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/target/classes/org/wltea/analyzer/dic/Hit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/target/classes/org/wltea/analyzer/dic/Term.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/target/classes/org/wltea/analyzer/dic/main2012.dic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/target/classes/org/wltea/analyzer/dic/quantifier.dic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/target/classes/org/wltea/analyzer/model/analyzer/Lexeme.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/target/test-classes/ik/test/CommonTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/target/test-classes/ik/test/IKSegmenterTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ik-2012/target/test-classes/ik/test/index/IndexCreat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seata-samples" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/lib/ivy-2.4.0.jar" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1cqSUNfmVR4dKuu5nlD4iGhjgpc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\fusion\gitHub_Repository\zookeeper-3.4.13\src\java\lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="QuorumPeerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.apache.zookeeper.server.quorum.QuorumPeerMain" />
+      <module name="ZooKeeper" />
+      <option name="PROGRAM_PARAMETERS" value="E:\fusion\gitHub_Repository\zookeeper-3.4.13\conf\zoo.cfg" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.apache.zookeeper.server.quorum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.QuorumPeerMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e56cd3b-9ecb-4f8c-84b4-faca9e01e193" name="Default Changelist" comment="" />
+      <created>1591254644749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591254644749</updated>
+      <workItem from="1591254646116" duration="1707000" />
+      <workItem from="1591256395073" duration="3103000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.template" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="27" width="1089" height="653" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591256754473">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="27" width="1089" height="653" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1591256754473" />
+    <state x="421" y="67" key="FileChooserDialogImpl" timestamp="1591256465351">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="67" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1591256465351" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1591256305294">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1591256305294" />
+    <state x="314" y="44" key="NewModule_or_Project.wizard" timestamp="1591256478596">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="314" y="44" key="NewModule_or_Project.wizard/0.0.1280.680@0.0.1280.680" timestamp="1591256478596" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1591260342215">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1591260342215" />
+    <state x="357" y="114" key="antBuildFilePropertiesDialogDimension" timestamp="1591256324760">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="357" y="114" key="antBuildFilePropertiesDialogDimension/0.0.1280.680@0.0.1280.680" timestamp="1591256324760" />
+    <state x="91" y="0" key="new project wizard" timestamp="1591256436611">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1591256436611" />
+  </component>
+</project>
